@@ -1,0 +1,64 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+#navbar
+{
+  background-color:rgb(100, 95, 95);
+  margin: 5px; 
+  height: 30px;
+  padding: 5px;
+  
+}
+
+a
+{
+ color:white; 
+}
+
+
+ul li{
+  display: inline;
+  margin: 60px;
+  
+}
+
+h1
+{
+  border: solid black;
+  text-align: center;
+  border-end-start-radius: 40px;
+  height: 55px;
+  padding: 10px;
+  margin: 20px;
+  background-color:cadetblue;
+}
+
+input
+{
+  height: 30px;
+  width: 200px;
+   margin-left: 70px;
+   padding-left: 50px;
+   border: solid 2px   
+}
+
+a:hover
+{
+  color: rgb(220, 163, 31);
+  text-decoration:line-through;
+}
+
+a:active
+{
+  color: aquamarine;
+}
+
+input:enabled
+{
+  background-color:rgb(14, 192, 44);
+}
+
+
